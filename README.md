@@ -29,5 +29,5 @@ The developed code is released under the MIT Licence.
 -	Shinya Fukui and any organization to which Shinya Fukui belongs are neither responsible nor liable for any loss or damage that a User of the Content may cause to any third party as a result of using the Content. The Content may be modified, moved or deleted without prior notice.
 
 ## Author
-Shinya Fukui
+### Shinya Fukui
 Visiting researcher, Graduate School of Economics, Osaka Metropolitan University, Sakai, Osaka, Japan
