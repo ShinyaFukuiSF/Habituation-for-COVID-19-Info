@@ -7,6 +7,9 @@
 - The daily human mobility data for each prefecture are obtained from Google’s COVID-19 Community Mobility Reports [Google's page](https://www.google.com/covid19/mobility/).
 - The daily data on COVID-19 vaccination of each prefecture are obtained from the number of COVID-19 vaccines administered by the Ministry of Health, Labour and Welfare (MHLW) (page is in Japanese; file is in JSON format (NDJSON)) [MHLW's page](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/syukeihou_00002.html).
 
+# R codes
+The R codes page is now under construction (July 16, 2024) and will be completed in a month.
+
 # Terms of Use
 
 Users (hereinafter referred to as the User or Users depending on context) of the content on this web site (hereinafter referred to as the “Content”) are required to conform to the terms of use described herein (hereinafter referred to as the Terms of Use). Furthermore, use of the Content constitutes agreement by the User with the Terms of Use. The contents of the Terms of Use are subject to change without prior notice.
