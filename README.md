@@ -25,7 +25,7 @@ The copyright of the developed R codes belongs to Shinya Fukui.
 -	Shinya Fukui built the weight matrices based on the the Travel Data from Vital Signs of Economy-Regional Economy and Society Analyzing System (V-RESAS) provided by the Cabinet Secretariat and the Cabinet Office, Government of Japan (note that V-RESAS is no longer available to the public [Cabinet Office’s page](https://resas-portal.go.jp/medias-import/A000005_20240301_v-resas_notice.pdf)). The Travel Data from V-RESAS are constructed from Agoop Corporation’s Current Population Data, which is based on GPS data obtained with user consent from specific smartphone applications and makes demographic data using day/night population data.
 -	Temperature and precipitation data are obtained from the Japan Meteorological Agency (JMA) [JAM’s page](https://www.data.jma.go.jp/gmd/risk/obsdl/index.php). 
 -	The population density per square kilometre of inhabitable land area and the percentage of the population over 65 years old—are extracted from the Regional Statistics Database (System of Social and Demographic Statistics) from the Statistics Bureau of Japan (SBJ) [SBJ’s page](https://www.e-stat.go.jp/regional-statistics/ssdsview). 
--	Users must confirm the terms of use of the Google, NHK, MHLW, Cabinet Secretariat, CAICM, Cabinet Office, Agoop corp, JMA, and the SBJ, prior to using the Content.
+-	Users must confirm the terms of use of the Google, NHK, MHLW, Cabinet Secretariat, CAICM, Cabinet Office, Agoop corp., JMA, and the SBJ, prior to using the Content.
 
 ## Licence
 The developed codes are released under the MIT Licence.
