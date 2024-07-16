@@ -1,4 +1,5 @@
-# Unravelling habituation for COVID-19-related information: A panel data study in Japan (published in PLOS ONE)
+# Unravelling habituation for COVID-19-related information: A panel data study in Japan 
+### (published in PLOS ONE)
 ## Shinya Fukui
 
 ### Some of the data are available through the external websites.
