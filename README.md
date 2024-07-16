@@ -21,7 +21,7 @@ The copyright of the developed R codes belongs to Shinya Fukui.
 -	Users must confirm the terms of use of the Google, NHK, MHLW, Cabinet Secretariat, CAICM, Cabinet Office, Agoop corp, JMA, and the SBJ, prior to using the Content.
 
 ## Licence
-The developed code is released under the MIT Licence.
+The developed codes are released under the MIT Licence.
 
 ## Disclaimer
 -	Shinya Fukui makes the utmost effort to maintain, but nevertheless does not guarantee, the accuracy, completeness, integrity, usability, and recency of the Content.
