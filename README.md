@@ -5,7 +5,7 @@
 ## Data
 ### Some of the data are available through the external websites.
 - The daily human mobility data for each prefecture are obtained from Google’s COVID-19 Community Mobility Reports [Google's page](https://www.google.com/covid19/mobility/).
-- The daily data on COVID-19 vaccination of each prefecture are obtained from the number of COVID-19 vaccines administered by the Ministry of Health, Labour and Welfare (MHLW) (page is in Japanese, file is in JSON format (NDJSON)) [MHLW's page](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/syukeihou_00002.html).
+- The daily data on COVID-19 vaccination of each prefecture are obtained from the number of COVID-19 vaccines administered by the Ministry of Health, Labour and Welfare (MHLW) (page is in Japanese; file is in JSON format (NDJSON)) [MHLW's page](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/syukeihou_00002.html).
 
 ## Copyright of Third Parties
 -	The daily human mobility data for each prefecture are obtained from Google’s COVID-19 Community Mobility Reports [Google’s page](https://www.google.com/covid19/mobility/). 
@@ -16,3 +16,12 @@
 -	Temperature and precipitation data are obtained from the Japan Meteorological Agency (JMA) [JAM’s page](https://www.data.jma.go.jp/gmd/risk/obsdl/index.php). 
 -	The population density per square kilometre of inhabitable land area and the percentage of the population over 65 years old—are extracted from the Regional Statistics Database (System of Social and Demographic Statistics) from the Statistics Bureau of Japan (SBJ) [SBJ’s page](https://www.e- stat.go.jp/regional-statistics/ssdsview). 
 -	Users must confirm the terms of use of the Google, NHK, MHLW, Cabinet Secretariat, CAICM, Cabinet Office, Agoop corp, JMA, and the SBJ, prior to using the Content.
+
+## Disclaimer
+-	Shinya Fukui makes the utmost effort to maintain, but nevertheless does not guarantee, the accuracy, completeness, integrity, usability, and recency of the Content.
+-	Shinya Fukui and any organization to which Shinya Fukui belongs hereby disclaim responsibility and liability for any loss or damage that may be incurred by Users as a result of using the Content.
+-	Shinya Fukui and any organization to which Shinya Fukui belongs are neither responsible nor liable for any loss or damage that a User of the Content may cause to any third party as a result of using the Content. The Content may be modified, moved or deleted without prior notice.
+
+## Author
+Shinya Fukui
+Visiting researcher, Graduate School of Economics, Osaka Metropolitan University, Sakai, Osaka, Japan
