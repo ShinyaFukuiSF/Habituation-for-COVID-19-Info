@@ -2,5 +2,5 @@
 ## Shinya Fukui
 
 ### Some of the data are available through the external websites.
-- The daily human mobility data for each prefecture are obtained from Google’s COVID-19 Community Mobility Reports [Google's page] (https://www.google.com/covid19/mobility/).
+- The daily human mobility data for each prefecture are obtained from Google’s COVID-19 Community Mobility Reports [Google's page](https://www.google.com/covid19/mobility/).
 - The daily data on COVID-19 vaccination of each prefecture are obtained from the number of COVID-19 vaccine administered by the Ministry of Health, Labour and Welfare (MHLW) (in Japanese) [MHLW's page](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/kekkaku-kansenshou/yobou-sesshu/syukeihou_00002.html). 
