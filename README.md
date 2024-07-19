@@ -37,3 +37,4 @@ The developed codes are released under the MIT Licence.
 # Author
 ### Shinya Fukui
 Visiting researcher, Graduate School of Economics, Osaka Metropolitan University, Sakai, Osaka, Japan
+E-mail  shinya.fukui.econ(at)gmail.com
