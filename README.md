@@ -6,9 +6,6 @@
 ### Some of the data are available through the external websites.
 - The daily human mobility data for each prefecture are obtained from Google’s COVID-19 Community Mobility Reports [Google's page](https://www.google.com/covid19/mobility/).
 
-# R codes
-The R codes page is now under construction (July 16, 2024) and will be completed in a month.
-
 # Terms of Use
 
 Users (hereinafter referred to as the User or Users depending on context) of the content on this web site (hereinafter referred to as the “Content”) are required to conform to the terms of use described herein (hereinafter referred to as the Terms of Use). Furthermore, use of the Content constitutes agreement by the User with the Terms of Use. The contents of the Terms of Use are subject to change without prior notice.
